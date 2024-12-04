@@ -1,0 +1,14 @@
+{
+    "keypoint_num": 3,
+    "keypoints": [
+        {
+            "name": "start"
+        },
+        {
+            "name": "middle"
+        },
+        {
+            "name": "end"
+        }
+    ]
+}
